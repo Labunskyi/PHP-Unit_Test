@@ -2,7 +2,7 @@
 
 Загрузка юнит движка:
 
-        wget https://phar.phpunit.de/phpunit-3.7.phar
+https://phar.phpunit.de/phpunit-3.7.phar
         
 Видео Уроки:
 
